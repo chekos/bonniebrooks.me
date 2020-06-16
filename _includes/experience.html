@@ -1,0 +1,14 @@
+<section id="experience" class="home-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-4 section-heading">
+        <h1>Experience</h1>
+      </div>
+      <div class="col-12 col-lg-8">
+        {% for job in site.data.jobs %}
+            {% include job-card.html %}
+          {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

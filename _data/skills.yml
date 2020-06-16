@@ -1,0 +1,24 @@
+#  Find the icon names at https://fontawesome.com/icons?d=gallery
+
+- skill: "Python"
+  icon: "fab fa-python"
+
+- skill: "R"
+  icon: "fab fa-r-project"
+  detail: "tidyverse, shiny, rmarkdown"
+
+- skill: "Visual and Information Design"
+  icon: "fas fa-chart-area"
+  detail: "d3.js + tableau"
+
+- skill: "Data Analysis"
+  icon: "fas fa-chart-bar"
+
+- skill: "Geospatial Analysis"
+  icon: "fas fa-map-marker-alt"
+  detail: "Using python"
+
+- skill: "Web Development"
+  icon: "fas fa-server"
+  detail: "Django (python) + some react + HTML/CSS/JS"
+  

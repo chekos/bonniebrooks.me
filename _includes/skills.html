@@ -1,0 +1,19 @@
+<section id="skills" class="home-section">
+  <div class="container">
+    <div class="row featurette">
+      <div class="col-md-12 section-heading">
+        <h1>Skills</h1>
+      </div>
+
+      {% for skill in site.data.skills %}
+      <div class="col-12 col-sm-4">
+        <div class="featurette-icon"><i class="{{ skill.icon }}"></i></div>
+        <h3>{{ skill.skill }}</h3>
+          {% if skill.detail != "" %}
+            <p>{{ skill.detail }}</p>
+          {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

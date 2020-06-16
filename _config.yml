@@ -1,0 +1,63 @@
+# Site
+name: 'Hola, soy Sergio 👋🏼'
+description: 'Imaginemos cosas chingonas.'
+logo: 'assets/images/logo.png'
+logo_full: 'assets/images/logo.png'
+favicon: 'assets/images/icon.ico'
+baseurl: '/'
+url: "https://soyserg.io"
+email: 'sergio@cimarron.io'
+
+include: ["_pages"]
+permalink: /:title/
+future: true
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 20
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [
+  _posts/2010-01-01-template.md,
+  README.md,
+  package.json,
+  grunt.js,
+  Gruntfile.js,
+  Gruntfile.coffee,
+  node_modules,
+  vendor/*,
+]
+
+# Archives
+jekyll-archives:
+  enabled: ['categories']
+  layout: archive
+  permalinks:
+category: '/category/:name/'
