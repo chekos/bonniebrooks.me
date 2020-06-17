@@ -1,24 +1,24 @@
 # Site
-name: 'Hola, soy Sergio 👋🏼'
-description: 'Imaginemos cosas chingonas.'
+name: 'It's me, Bonnie'
+description: 'Where data nerdery meets artistry'
 logo: 'assets/images/logo.png'
 logo_full: 'assets/images/logo.png'
 favicon: 'assets/images/icon.ico'
-baseurl: '/'
-url: "https://soyserg.io"
-email: 'sergio@cimarron.io'
+baseurl: '/bonniebrooks.me'
+url: "https://brooksbo.github.io"
+email: 'bonnie@bonniebrooks.me'
 
 include: ["_pages"]
 permalink: /:title/
 future: true
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
- 
+
 # Defaults
 defaults:
 
@@ -27,14 +27,14 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
-      
+
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
