@@ -1,71 +1,77 @@
-- title: 'Data Visualization Analyst'
-  company: 'Alluma'
-  company_url: 'https://alluma.org/'
-  description: 'As a data visualization analyst in a new team at Alluma I get
-                  to help shape data practice + drive data-informed culture. I
-                  also:
+- title: 'Research Associate'
+  company: 'Public Policy Institute of California'
+  company_url: 'https://www.ppic.org/'
+  description: 'As a research associate, I provide analytical capacity to PPIC's research group, specifically the
+  Higher Education Center. My policy and research expertise pertains to California community colleges, namely developmental education and
+  career education.
                   <p></p>
 
                   <ul>
                     <li>
-                      Develop ETL jobs + tests to process, validate, transport,
-                      colalte, aggregate, and distribute data.
+                    Conduct statistical analysis of multimillion-observation, student-level longitudinal data, which
+                    includes managing, cleaning, and building analytical datasets using STATA, Python, R
                     </li>
                     <li>
-                      Design and build dashboards and self-service tools in
-                      Tableau + Metabase for internal teams and client facing
-                      solutions.
+                      Write technical appendices, sections of research publications, and blogs to make
+                      research content more accessible for non-technical audiences
                     </li>
                     <li>
-                      Conduct training’s on data concepts + specific tools.
+                    Construct charts, tables, graphs, and maps using ArcGIS and Tableau for research publications, presentations, and blogs
+                    </li>
+                    <li>
+                    Presented at 3 conferences attended by over 200 local- and state-level community college stakeholders, translating research findings into policy recommendations
+                    <br /></li>
+
+                  </ul>'
+  date_range: 'January 2017 - Present'
+  location: 'San Francisco, CA'
+  current: true
+
+- title: 'Data and Research Associate, Los Angeles Promise Zone (LAPZ) Initiative'
+  company: 'City of Los Angeles'
+  company_url: 'https://www.lapromisezone.org/'
+  description: 'As the Data and Research Associate for the LAPZ Initiative, I played a key role in developing,
+  maintaining, and presenting the key performance indicators used to track progress towards achieving its strategic goals:
+                  <p></p>
+
+                  <ul>
+                    <li>
+                      Maintained and systematized yearly and quarterly updates of database housing
+                      four key strategic goal metrics
+                    </li>
+                    <li>
+                    Developed data visualizations of local data using ArcGIS and Tableau for digital data
+                    dashboards to inform federal, city, and community stakeholders of key activities, progress, and
+                    impact within Promise Zone neighborhoods
+                    </li>
+                    <li>Managed grant inventory and evaluation tools that illustrated the impact of over 10 active public
+                    and private grants invested in the Promise Zone
+                    </li>
+                    <li> Led workshops and trainings on using Tableau and ArcGIS to visualize the initiative's impact
+                    for my 5-person team
+                    <br />
+                    </li>
+                  </ul>'
+  date_range: 'August 2016 - December 2016'
+  location: 'Los Angeles, CA'
+  current: false
+
+- title: 'Postbaccalaureate Fellow, Data Analysis and Social Inquiry Lab (DASIL)'
+  company: 'Grinnell College'
+  company_url: 'https://dasil.sites.grinnell.edu/'
+  description: 'As the Postbaccalaureate Fellow, I primarily helped students and faculty across a wide variety of disciplines integrate data and research
+  methods into classroom curriculum:
+                  <p></p>
+
+                  <ul>
+                    <li>Prepared datasets, exercises, and documentation to be used by faculty for classroom assignments</li>
+                    <li>Led experiential learning/training for 8-10 student tutors </li>
+                    <li>Tutored over 50 students per semester on data and research methodology; statistical and economic concepts; computer programming
+                    <li>
+                    Developed and conducted trainings on data concepts + specific tools (ArcGIS, R, STATA, SPSS, Nvivo) for 5-10 courses per semester.
                       <br />
                     </li>
                   </ul>'
-  date_range: 'March 2020 - Present'
-  location: 'Oakland, CA'
-  current: true
-
-- title: 'Founder'
-  company: 'tacosdedatos'
-  company_url: 'https://tacosdedatos.com/'
-  description: 'As the creator/founder of tacosdedatos my responsibilities
-                  vary but three main ones are:
-                  <p></p>
-
-                  <ul>
-                    <li>
-                      Research, write and publish content as well as reach out
-                      to potential content creators.
-                    </li>
-                    <li>
-                      Create marketing materials for our content and push them
-                      on to the right channels
-                    </li>
-                    <li>Maintain the website tacosdedatos.com/ <br /></li>
-                  </ul>'
-  date_range: 'February 2019 - Present'
-  location: 'Latinoamérica'
-  current: true
-
-- title: 'Research Associate'
-  company: 'Public Policy Institute of California'
-  company_url: 'https://ppic.org/'
-  description: 'Responsibilities include:
-                  <p></p>
-
-                  <ul>
-                    <li>Data cleaning and statistical analysis</li>
-                    <li>Summarize findings for publications</li>
-                    <li>Develop and deploy research protocols <br /></li>
-                  </ul>'
-  date_range: 'January 2018 - March 2020'
-  location: 'San Francisco, California'
-  current: false
-
-- title: 'Data Analyst'
-  company: 'Davis Joint Unified School District'
-  description: 'Prepared, analyzed, and presented school climate data for
-                  stakeholders in the school district.'
-  date_range: 'May 2017 - October 2018'
-  location: 'Davis, California'
+  date_range: 'June 2015 - June 2016'
+  location: 'Grinnell, Iowa'
   current: false
