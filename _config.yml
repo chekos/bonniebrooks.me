@@ -1,11 +1,11 @@
 # Site
-name: 'It's me, Bonnie'
+name: 'My name is Bonnie'
 description: 'Where data nerdery meets artistry.'
 logo: 'assets/images/logo.png'
 logo_full: 'assets/images/logo.png'
 favicon: 'assets/images/icon.ico'
 baseurl: '/'
-url: "https://brooksbo.github.io/bonniebrooks.me"
+url: "https://bonniebrooks.me"
 email: 'bonnie@bonniebrooks.me'
 
 include: ["_pages"]
