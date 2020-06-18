@@ -2,16 +2,8 @@
 # Biography
 
 
-My name is Sergio Sánchez Zavala and I’m originally from Tijuana, Baja
-California, México. I’m dedicated to making research transparent and
-reproducible. I’m a public policy wonk + data and tech nerd. I like making
-accessible and reproducible open-sourced tools and resources 🤓
+Welcome to my page! My name is Bonnie Brooks. I am a Brazilian-American data nerd from Los Angeles, CA with a passion for data, policy, and art. I'm always learning something new and sharing it too.
 
 I’m also:
 
-- 🧑🏼‍🎨🧑🏼‍🏫 a facilitator in the newly formed [Data Visualization Society](https://datavisualizationsociety.com/)
-- 🌮📊 the creator of [@tacosdedatos](https://twitter.com/tacosdedatos/) - [tacosdedatos.com](https://tacosdedatos.com/)
-where I hope to build a place to learn data analysis and data
-visualization best practices, techniques, and knowledge in Spanish.
-- 🧑🏼‍🔬🎨 and a data visualization analyst at [Alluma](https://alluma.org/) - a social
-enterprise in the social tech space.
+- a researcher at the [Public Policy Institute of California](https://www.ppic.org/)
