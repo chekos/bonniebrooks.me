@@ -9,16 +9,16 @@
 
 - skill: "Visual and Information Design"
   icon: "fas fa-chart-area"
-  detail: "d3.js + tableau"
+  detail: "tableau"
 
 - skill: "Data Analysis"
   icon: "fas fa-chart-bar"
+  detail: econometrics, statistical analysis
 
 - skill: "Geospatial Analysis"
   icon: "fas fa-map-marker-alt"
-  detail: "Using python"
+  detail: "Using python, R, ArcGIS"
 
 - skill: "Web Development"
   icon: "fas fa-server"
-  detail: "Django (python) + some react + HTML/CSS/JS"
-  
+  detail: "HTML/CSS/JS"
