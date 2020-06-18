@@ -1,11 +1,9 @@
-- name: 'Sergio Sánchez Zavala'
-  job: "Data Visualization Analyst @ Alluma"
-  organizations: 
-    - name: "Alluma"
-      url: "https://alluma.org/"
-    - name: "tacosdedatos"
-      url: "https://tacosdedatos.com/"
-  email: "sergio@cimarron.io"
-  twitter: "ChekosWH"
-  github: "chekos"
+- name: 'Bonnie Brooks'
+  job: "Research Associate @ The Public Policy Institute of California (PPIC)"
+  organizations:
+    - name: "PPIC"
+      url: "https://www.ppic.org/"
+  email: "bonnie@bonniebrooks.me"
+  github: "brooksbo"
+  linkedin: "brooksbonnie"
   pic: "/assets/images/portrait.jpg"
