@@ -1,0 +1,63 @@
+{% assign me = site.data.me[0] %}
+<div class="col-12 col-lg-4">
+  <div id="profile">
+    <img
+      class="portrait"
+      src="{{ me.pic | relative_url }}"
+      itemprop="image"
+      alt="Avatar"
+    />
+    <div class="portrait-title">
+      <h3 itemprop="name">{{ me.name }}</h3>
+      <h4 itemprop="jobTitle">{{ me.job }}</h4>
+      {% for organization in me.organizations %}
+      <h3
+        itemprop="worksFor"
+        itemscope=""
+        itemtype="http://schema.org/Organization"
+      >
+        <a
+          href="{{ organization.url }}"
+          target="_blank"
+          itemprop="url"
+          rel="noopener"
+        >
+          <span itemprop="name">{{ organization.name }}</span>
+        </a>
+      </h3>
+      {% endfor %}
+    </div>
+
+    <link itemprop="url" href="" />
+
+    <ul class="network-icon" aria-hidden="true">
+      <li>
+        <a itemprop="sameAs" href="mailto:{{ me.email }}">
+          <i class="fas fa-envelope big-icon"></i>
+        </a>
+      </li>
+
+      <li>
+        <a
+          itemprop="sameAs"
+          href="https://twitter.com/{{ me.twitter }}"
+          target="_blank"
+          rel="noopener"
+        >
+          <i class="fab fa-twitter big-icon"></i>
+        </a>
+      </li>
+
+      <li>
+        <a
+          itemprop="sameAs"
+          href="https://github.com/{{ me.github }}"
+          target="_blank"
+          rel="noopener"
+        >
+          <i class="fab fa-github big-icon"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
