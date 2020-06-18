@@ -1,0 +1,11 @@
+- name: 'Sergio Sánchez Zavala'
+  job: "Data Visualization Analyst @ Alluma"
+  organizations: 
+    - name: "Alluma"
+      url: "https://alluma.org/"
+    - name: "tacosdedatos"
+      url: "https://tacosdedatos.com/"
+  email: "sergio@cimarron.io"
+  twitter: "ChekosWH"
+  github: "chekos"
+  pic: "/assets/images/portrait.jpg"

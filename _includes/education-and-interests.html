@@ -1,0 +1,25 @@
+<div class="row">
+  <div class="col-md-5">
+    <h3>Interests</h3>
+    <ul class="ul-interests">
+      {% for interest in site.data.interests %}
+      <li>{{ interest.name }}</li>
+      {% endfor%}
+    </ul>
+  </div>
+
+  <div class="col-md-7">
+    <h3>Education</h3>
+    <ul class="ul-edu fa-ul">
+        {% for degree in site.data.education %}
+      <li>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course">{{ degree.degree }}, {{ degree.year }}</p>
+          <p class="institution">{{ degree.institution }}</p>
+        </div>
+      </li>
+        {% endfor %}
+    </ul>
+  </div>
+</div>
