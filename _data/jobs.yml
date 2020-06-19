@@ -1,0 +1,71 @@
+- title: 'Data Visualization Analyst'
+  company: 'Alluma'
+  company_url: 'https://alluma.org/'
+  description: 'As a data visualization analyst in a new team at Alluma I get
+                  to help shape data practice + drive data-informed culture. I
+                  also:
+                  <p></p>
+
+                  <ul>
+                    <li>
+                      Develop ETL jobs + tests to process, validate, transport,
+                      colalte, aggregate, and distribute data.
+                    </li>
+                    <li>
+                      Design and build dashboards and self-service tools in
+                      Tableau + Metabase for internal teams and client facing
+                      solutions.
+                    </li>
+                    <li>
+                      Conduct training’s on data concepts + specific tools.
+                      <br />
+                    </li>
+                  </ul>'
+  date_range: 'March 2020 - Present'
+  location: 'Oakland, CA'
+  current: true
+
+- title: 'Founder'
+  company: 'tacosdedatos'
+  company_url: 'https://tacosdedatos.com/'
+  description: 'As the creator/founder of tacosdedatos my responsibilities
+                  vary but three main ones are:
+                  <p></p>
+
+                  <ul>
+                    <li>
+                      Research, write and publish content as well as reach out
+                      to potential content creators.
+                    </li>
+                    <li>
+                      Create marketing materials for our content and push them
+                      on to the right channels
+                    </li>
+                    <li>Maintain the website tacosdedatos.com/ <br /></li>
+                  </ul>'
+  date_range: 'February 2019 - Present'
+  location: 'Latinoamérica'
+  current: true
+
+- title: 'Research Associate'
+  company: 'Public Policy Institute of California'
+  company_url: 'https://ppic.org/'
+  description: 'Responsibilities include:
+                  <p></p>
+
+                  <ul>
+                    <li>Data cleaning and statistical analysis</li>
+                    <li>Summarize findings for publications</li>
+                    <li>Develop and deploy research protocols <br /></li>
+                  </ul>'
+  date_range: 'January 2018 - March 2020'
+  location: 'San Francisco, California'
+  current: false
+
+- title: 'Data Analyst'
+  company: 'Davis Joint Unified School District'
+  description: 'Prepared, analyzed, and presented school climate data for
+                  stakeholders in the school district.'
+  date_range: 'May 2017 - October 2018'
+  location: 'Davis, California'
+  current: false
