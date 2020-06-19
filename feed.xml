@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://bonniebrooks.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bonniebrooks.me/" rel="alternate" type="text/html" /><updated>2020-06-19T01:59:52+00:00</updated><id>https://bonniebrooks.me/</id><title type="html">Hello, my name is Bonnie</title><subtitle>Where data nerdery meets artistry.</subtitle><entry><title type="html">Guía Altair</title><link href="https://bonniebrooks.me/guia-altair/" rel="alternate" type="text/html" title="Guía Altair" /><published>2020-12-18T00:00:00+00:00</published><updated>2020-12-18T00:00:00+00:00</updated><id>https://bonniebrooks.me/guia-altair</id><content type="html" xml:base="https://bonniebrooks.me/guia-altair/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;La visualización de datos efectiva es una habilidad técnica cada día más codiciada. No es sólo una herramienta útil para presentar resultados sino también para la exploración eficáz de datos. Los gráficos bien diseñados son capaces de transferir una gran cantidad de información en poco tiempo.&lt;/p&gt;
+
+&lt;p&gt;Este libro es un documento vivo sobre la visualización de datos en python y específicamente utilizando la biblioteca altair. Aprenderás un poco sobre la grámatica de gráficos y sobre pandas, la biblioteca de análisis de datos más popular de python. También aprenderás a como visualizar tus datos utilizando altair y como compartirlos en la red, ya sea en tu blog, en el sitio de tu empresa, o en tus redes sociales.&lt;/p&gt;
+
+&lt;p&gt;¡La guía seguirá creciendo con el tiempo con más material y más ejercicios así que asegurate de regresar de vez en cuando a ver que hay de nuevo!&lt;/p&gt;
+
+&lt;p&gt;Si encuentras un error o tienes sugerencias o comentarios te invito a que abrás un &lt;strong&gt;issue&lt;/strong&gt; en el repo de GitHub.&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Ongoing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&quot;https://www.visdedatos.com/&quot;&gt;www.visdedatos.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/cimarron-io/guia-altair&quot;&gt;cimarron-io/guia-altair&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 1&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 2&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 3&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;licence&quot;&gt;Licence&lt;/h5&gt;
+
+&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/project_guia-altair.png" /></entry><entry><title type="html">Higher Ed Research Scripts</title><link href="https://bonniebrooks.me/hec-research-scripts/" rel="alternate" type="text/html" title="Higher Ed Research Scripts" /><published>2020-04-10T00:00:00+00:00</published><updated>2020-04-10T00:00:00+00:00</updated><id>https://bonniebrooks.me/hec-research-scripts</id><content type="html" xml:base="https://bonniebrooks.me/hec-research-scripts/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;A repository of python scripts used in higher education public policy analysis.&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2020&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/chekos/hec-research-scripts&quot;&gt;https://github.com/chekos/hec-research-scripts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Public Policy Analysis&lt;/strong&gt;
+Higher education.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Python scripts&lt;/strong&gt;
+and jupyter notebooks&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Data manipulation&lt;/strong&gt;
+These scripts attempt include CLI tools that facilitate cleaning data from IPEDS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;license&quot;&gt;License&lt;/h5&gt;
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/research-scripts.png" /></entry><entry><title type="html">Talk: Making maps with python @ NACIS 2019</title><link href="https://bonniebrooks.me/using-python-for-data-analysis-and-visualization/" rel="alternate" type="text/html" title="Talk: Making maps with python @ NACIS 2019" /><published>2019-11-19T00:00:00+00:00</published><updated>2019-11-19T00:00:00+00:00</updated><id>https://bonniebrooks.me/using-python-for-data-analysis-and-visualization</id><content type="html" xml:base="https://bonniebrooks.me/using-python-for-data-analysis-and-visualization/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;h6 id=&quot;python-for-data-analysis-and-visualization&quot;&gt;Python for Data Analysis and Visualization&lt;/h6&gt;
+
+&lt;p&gt;The National Center for Education Statistics, through the Integrated Post-secondary Education Data System (IPEDS) provides publicly available institutional-level data for higher education institutions across the United States. This presentation will use this data to illustrate a typical data analysis workflow utilizing cutting-edge technologies. This presentation will also be about sharing data visualization learning resources (online and physical) so that participants can learn how to learnabout effective data analysis and visualization. This presentation will go over the benefits of using Jupyter as your working environment.
+“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.”&lt;/p&gt;
+
+&lt;p&gt;Jupyter Notebooks are becoming more and more commonplace across many industries and have revolutionized the way practitioners analyze and report data (i.e. The Atlantic’s “The Scientific Paper is Obsolete. Here’s What’s Next.” https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) but this has not been the case in the educational research world. This presentation will go over ways to learn how to use Jupyter Notebooks to save time and energy when analyzing and visualizing data.&lt;/p&gt;
+
+&lt;p&gt;Participants will also learn about the vast amount of resources, both online and physical, available to them. These resources include websites, blogs, tools, and publications, dedicated to teaching effective data visualization and analysis techniques, best practices, and learning communities for practitioners of all levels.&lt;/p&gt;
+
+&lt;p&gt;This presentation will be a demonstration of a typical data analysis project step by step. It will go from acquiring the data from IPEDS and loading and manipulating it into a focused working dataset to developing an interactive visualization. This visualization will be ready to be shared with stakeholders as a tool to explore or embedded on a website.&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2020-11-19&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Place:&lt;/strong&gt; Sacramento, California.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Event Website:&lt;/strong&gt; &lt;a href=&quot;http://cera-web.org/annual-conference&quot;&gt;CERA 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href=&quot;https://docs.google.com/presentation/d/1uhY12XwPggQd5srlU_cFrhzqIOc3Cskb4OADYrGoAME/edit?usp=sharing&quot;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 1&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 2&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 3&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;licence&quot;&gt;Licence&lt;/h5&gt;
+
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/talk_cera-2019.png" /></entry><entry><title type="html">Talk: Making maps with python @ NACIS 2019</title><link href="https://bonniebrooks.me/making-maps-with-python-nacis/" rel="alternate" type="text/html" title="Talk: Making maps with python @ NACIS 2019" /><published>2019-10-17T00:00:00+00:00</published><updated>2019-10-17T00:00:00+00:00</updated><id>https://bonniebrooks.me/making-maps-with-python-nacis</id><content type="html" xml:base="https://bonniebrooks.me/making-maps-with-python-nacis/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;In this presentation we will go over some open source tools available in the python ecosystem for geographic data visualization and analysis. We will also go over a couple open data portals to access geographic data for the United States and other countries. We will then explore how a social scientist may typically approach a data analysis project using these tools and data to extract insights.&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2020-10-17&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Place:&lt;/strong&gt; Tacoma, Washington.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Event Website:&lt;/strong&gt; &lt;a href=&quot;https://nacis2019.sched.com/event/Rndt/software-and-programming&quot;&gt;NACIS 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href=&quot;https://drive.google.com/open?id=1ysoenxUGeG0fPJO-EC-YtyVvd9-891iNxSWLZpB6jOw&quot;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Video:&lt;/strong&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=uI3iL0BJ8-Y&quot;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/chekos/analyzing-census-data&quot;&gt;github.com/chekos/analyzing-census-data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 1&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 2&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 3&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;licence&quot;&gt;Licence&lt;/h5&gt;
+
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/talk_nacis-2019.png" /></entry><entry><title type="html">Talk: Analyzing census data with pandas @ PyCon US 2019</title><link href="https://bonniebrooks.me/analyzing-census-data-with-pandas/" rel="alternate" type="text/html" title="Talk: Analyzing census data with pandas @ PyCon US 2019" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://bonniebrooks.me/analyzing-census-data-with-pandas</id><content type="html" xml:base="https://bonniebrooks.me/analyzing-census-data-with-pandas/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;h6 id=&quot;census-2020-is-coming&quot;&gt;Census 2020 is coming!&lt;/h6&gt;
+
+&lt;p&gt;Did you know the government budgeted &lt;strong&gt;12.5 billion&lt;/strong&gt; dollars to count &lt;strong&gt;EVERY SINGLE PERSON IN THE COUNTRY&lt;/strong&gt; in 2020? 
+Imagine how much data you could acquire with 12.5 billion dollars.&lt;/p&gt;
+
+&lt;h6 id=&quot;not-so-excited-about-census-data-how-about-cool-pandas-tricks&quot;&gt;Not so excited about Census data? How about cool &lt;code class=&quot;highlighter-rouge&quot;&gt;pandas&lt;/code&gt; tricks?&lt;/h6&gt;
+&lt;p&gt;&lt;img src=&quot;https://media1.tenor.com/images/60379b3ecd5b8d9d886d90018dba63ab/tenor.gif?itemid=5274556&quot; alt=&quot;pandas_gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this tutorial you will go from a simple data exploration and analysis workflow to learning more advanced techniques social scientists apply when dealing with Census data.&lt;/p&gt;
+
+&lt;p&gt;If you’ve been interested in honing your pandas skills or you’d just love to learn how to calculate the demographically-adjusted employment rate gap for your county using python, well you’ve come to the right place.&lt;/p&gt;
+
+&lt;p&gt;This tutorial is perfect for novice data analysts, pythonistas, social scientists, and journalists that want to learn about the powerful pandas library and how to use it to analyze public use micro-data, and for those who’ve been using it but could learn a trick or two to make their workflow even more effective.&lt;/p&gt;
+
+&lt;p&gt;Does the acronyms ACS, CPS, PUMA, or IPUMS mean anything to you? If not, the more reason to join! Come learn something new!&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2020-05-01&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Place:&lt;/strong&gt; Cleveland, Ohio.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Event Website:&lt;/strong&gt; &lt;a href=&quot;https://us.pycon.org/2019/proposals/135/&quot;&gt;us.pycon.org/2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href=&quot;https://mybinder.org/v2/gh/chekos/analyzing-census-data/master?filepath=presentation%2Fpresentation.ipynb&quot;&gt;RISE presentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Video:&lt;/strong&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=sGtCgYWzOV4&quot;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/chekos/analyzing-census-data&quot;&gt;github.com/chekos/analyzing-census-data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;p&gt;This tutorial will guide you through a typical data analysis project utilizing Census data acquired from IPUMS. It’s split into 2 notebooks:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Data Preparation&lt;/li&gt;
+  &lt;li&gt;Data Analysis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the first notebook you will:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Work with compressed data with pandas.&lt;/li&gt;
+  &lt;li&gt;Retrieve high-level descriptive analytics of your data.&lt;/li&gt;
+  &lt;li&gt;Drop columns.&lt;/li&gt;
+  &lt;li&gt;Slice data (boolean indexing).&lt;/li&gt;
+  &lt;li&gt;Work with categorical data.&lt;/li&gt;
+  &lt;li&gt;Work with weighted data.&lt;/li&gt;
+  &lt;li&gt;Use python’s pathlib library, making your code more reproducible across platforms.&lt;/li&gt;
+  &lt;li&gt;Develop a reproducible data prep workflow for future projects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On top of that, in the second notebook you will:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aggregate data.&lt;/li&gt;
+  &lt;li&gt;Learn about .groupby()&lt;/li&gt;
+  &lt;li&gt;Learn about cross-sections .xs()&lt;/li&gt;
+  &lt;li&gt;Learn about pivot_tables and crosstabs&lt;/li&gt;
+  &lt;li&gt;Develop a reproducible data analysis workflow for future projects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;licence&quot;&gt;Licence&lt;/h5&gt;
+
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/talk_analyzing-census-data-with-pandas.png" /></entry><entry><title type="html">tacos de datos</title><link href="https://bonniebrooks.me/tacosdedatos/" rel="alternate" type="text/html" title="tacos de datos" /><published>2019-02-02T00:00:00+00:00</published><updated>2019-02-02T00:00:00+00:00</updated><id>https://bonniebrooks.me/tacosdedatos</id><content type="html" xml:base="https://bonniebrooks.me/tacosdedatos/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;Tu sitio para aprender de visualización y ciencia de datos en español. Consejos, recursos y mejores prácticas para tus proyectos de tecnología, periodismo de datos y análisis estadísticos.&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Ongoing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Place:&lt;/strong&gt; Latinoamérica&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&quot;https://www.tacosdedatos.com/&quot;&gt;tacosdedatos.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/tacosdedatos&quot;&gt;tacosdedatos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 1&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 2&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme 3&lt;/strong&gt;
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/project_tacosdedatos.png" /></entry><entry><title type="html">Analizando datos censales con pandas</title><link href="https://bonniebrooks.me/analizando-datos-censales-con-pandas/" rel="alternate" type="text/html" title="Analizando datos censales con pandas" /><published>2019-02-02T00:00:00+00:00</published><updated>2019-02-02T00:00:00+00:00</updated><id>https://bonniebrooks.me/analizando-datos-censales-con-pandas</id><content type="html" xml:base="https://bonniebrooks.me/analizando-datos-censales-con-pandas/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;Este tutorial te guiará en el processo de un proyecto de análisis de datos típico utilizando datos del Censo de Estados Unidos que adquirimos de IPUMS.&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2019-02-02&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/chekos/analizando-datos-censales&quot;&gt;chekos/analizando-datos-censales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;p&gt;La versión en español de mi tutorial de PyCon 2019 “Analyzing Census Data with Pandas”&lt;/p&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;licence&quot;&gt;Licence&lt;/h5&gt;
+
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/project_analizando-datos-censales-con-pandas.png" /></entry><entry><title type="html">@evryCalifornian twitter bot</title><link href="https://bonniebrooks.me/evrycalifornian-twitter-bot/" rel="alternate" type="text/html" title="@evryCalifornian twitter bot" /><published>2018-11-04T00:00:00+00:00</published><updated>2018-11-04T00:00:00+00:00</updated><id>https://bonniebrooks.me/evrycalifornian-twitter-bot</id><content type="html" xml:base="https://bonniebrooks.me/evrycalifornian-twitter-bot/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;a recreation of the twitterbot &lt;strong&gt;@censusAmericans&lt;/strong&gt;, &lt;strong&gt;@evryCalifornian&lt;/strong&gt; tweets a little bio for every entry in the 2016 American Community Survey (#PoweredByIPUMS)&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2018-11-04&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&quot;https://www.twitter.com/evryCalifornian&quot;&gt;@evryCalifornian&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/chekos/allCalifornians&quot;&gt;chekos/allCalifornians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Data prep&lt;/strong&gt;
+Using &lt;code class=&quot;highlighter-rouge&quot;&gt;python&lt;/code&gt;, I grabbed US Census data (American Community Survey) for the state of California and created small bios for each entry. These don’t represent one person but rather a group of people with similar characteristics.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Twitter bot&lt;/strong&gt;
+A bot grabs a row of the dataset and tweets the lil bio every hour.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a class=&quot;twitter-timeline&quot; href=&quot;https://twitter.com/evryCalifornian?ref_src=twsrc%5Etfw&quot;&gt;Tweets by evryCalifornian&lt;/a&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;licence&quot;&gt;Licence&lt;/h5&gt;
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/project_evryCalifornian-twitter-bot.png" /></entry><entry><title type="html">#100 Viz project</title><link href="https://bonniebrooks.me/100viz/" rel="alternate" type="text/html" title="#100 Viz project" /><published>2018-11-01T00:00:00+00:00</published><updated>2018-11-01T00:00:00+00:00</updated><id>https://bonniebrooks.me/100viz</id><content type="html" xml:base="https://bonniebrooks.me/100viz/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;inspired by &lt;strong&gt;@honestdesigners&lt;/strong&gt; daily drawing challenges and &lt;strong&gt;@pybites&lt;/strong&gt; and &lt;strong&gt;@talkpython&lt;/strong&gt; &lt;em&gt;#100DaysOfCode&lt;/em&gt; I morphed the two into a new challenge for myself: &lt;strong&gt;creating 100 data visualizations&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;the &lt;strong&gt;goal&lt;/strong&gt; is to 
+hone my skills as a data scientist
+develop and practice my design skills
+practice coding &lt;code class=&quot;highlighter-rouge&quot;&gt;python&lt;/code&gt; every day&lt;/p&gt;
+
+&lt;p&gt;the &lt;strong&gt;rules&lt;/strong&gt; are
+to spend 30 to 90 minutes every day working on a visualization
+this includes: prepping data, working on a color scheme,
+designing a theme, coding the visualization.&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Ongoing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/chekos/-100Viz&quot;&gt;chekos/-100Viz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;description&quot;&gt;Description&lt;/h5&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Fighting Fire in California&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/01%20-%20Firefighters%20in%20CA/images/01%20Fighting%20Fire%20in%20California.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/01%20-%20Firefighters%20in%20CA/images/01%20Fighting%20Fire%20in%20California.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Arriving Education&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/02%20-%20Recent%20Arrivals%20Education%20in%20CA/images/final/02%20Arriving%20Education.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/02%20-%20Recent%20Arrivals%20Education%20in%20CA/images/final/02%20Arriving%20Education.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Reckoning Roots&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/03%20-%20Afromexicans%20map/images/final/03%20-%20Reckoning%20Roots.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/03%20-%20Afromexicans%20map/images/final/03%20-%20Reckoning%20Roots.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Recoking Roots (Remix) Ft. Datawrapper&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/04%20-%20Afro-Mexicans%20%28Remix%29%20Ft.%20Datawrapper/images/04%20Afro-Mexicans%20%28Remix%29%20Ft.%20Datawrapper.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/04%20-%20Afro-Mexicans%20%28Remix%29%20Ft.%20Datawrapper/images/04%20Afro-Mexicans%20%28Remix%29%20Ft.%20Datawrapper.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Visualizing Strata&quot; href=&quot;https://github.com/chekos/-100Viz/blob/master/%23100Viz/05%20-%20Visualizing%20Strata/images/visualizing%20strata%20thumbnail.PNG?raw=true&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/blob/master/%23100Viz/05%20-%20Visualizing%20Strata/images/visualizing%20strata%20thumbnail.PNG?raw=true&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Visualizing Strata (Remix)&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/06%20-%20Visualizing%20Strata%20%28Remix%29/images/final/06%20Visualizing%20Strata%20%28Remix%29.PNG&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/06%20-%20Visualizing%20Strata%20%28Remix%29/images/final/06%20Visualizing%20Strata%20%28Remix%29.PNG&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Arriving Education (Remix)&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/07%20-%20Arriving%20Education%20%28Remix%29/images/final/07%20Arriving%20Education%20%28Remix%29.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/07%20-%20Arriving%20Education%20%28Remix%29/images/final/07%20Arriving%20Education%20%28Remix%29.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Testing Gifs&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/08%20-%20Testing%20Gifs/images/08%20Testing%20Gifs.gif&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/08%20-%20Testing%20Gifs/images/08%20Testing%20Gifs.gif&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Seeing Stocks&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/09%20-%20Seeing%20Stocks/images/09%20Seeing%20Stocks.gif&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/09%20-%20Seeing%20Stocks/images/09%20Seeing%20Stocks.gif&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Stagnant Humanity theme&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/10%20-%20Declining%20Humanity/images/10_Stagnant_Humanity.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/10%20-%20Declining%20Humanity/images/10_Stagnant_Humanity.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Breaking Even&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/11%20-%20Breaking%20Even/images/11%20-%20Breaking%20Even.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/11%20-%20Breaking%20Even/images/11%20-%20Breaking%20Even.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Reppin' LATAM theme&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/12%20-%20Rappin%27%20LATAM/images/final/12%20-%20Reppin%27%20LATAM.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/12%20-%20Rappin%27%20LATAM/images/final/12%20-%20Reppin%27%20LATAM.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Rap Bruto&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/13%20-%20Rap%20Bruto/images/final/13_Rap_Bruto.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/13%20-%20Rap%20Bruto/images/final/13_Rap_Bruto.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Finging Stories&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/14%20-%20Finding%20Stories/images/final/14_-_Finding_Stories.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/14%20-%20Finding%20Stories/images/final/14_-_Finding_Stories.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Finding Stories (Remix) theme&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/15%20-%20Finding%20Stories%20%28Remix%29/images/final/15%20-%20Finding%20Stories%20%28Remix%29.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/15%20-%20Finding%20Stories%20%28Remix%29/images/final/15%20-%20Finding%20Stories%20%28Remix%29.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;BAs in the Bay&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/16%20-%20BAs%20in%20the%20Bay/reports/figures/16%20-%20BAs%20in%20the%20Bay.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/16%20-%20BAs%20in%20the%20Bay/reports/figures/16%20-%20BAs%20in%20the%20Bay.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;BAs in the Bay (Remix)&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/17%20-%20BAs%20in%20the%20Bay%20%28Remix%29/reports/figures/17%20-%20BAs%20in%20the%20Bay%20%28Remix%29.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/17%20-%20BAs%20in%20the%20Bay%20%28Remix%29/reports/figures/17%20-%20BAs%20in%20the%20Bay%20%28Remix%29.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;633,000 kilómetros&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/18%20-%20633,000%20kil%C3%B3metros/reports/figures/final/18%20-%20633,000%20kil%C3%B3metros.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/18%20-%20633,000%20kil%C3%B3metros/reports/figures/final/18%20-%20633,000%20kil%C3%B3metros.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Valentine's&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/19%20-%20Valentines/reports/figures/final/19%20-%20Valentines.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/19%20-%20Valentines/reports/figures/final/19%20-%20Valentines.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a data-fancybox=&quot;gallery-100Viz&quot; data-caption=&quot;Another One&quot; href=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/20%20-%20Another%20One/reports/figures/final/20%20-%20Another%20One.png&quot;&gt;
+    &lt;img src=&quot;https://github.com/chekos/-100Viz/raw/master/%23100Viz/20%20-%20Another%20One/reports/figures/final/20%20-%20Another%20One.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;contact&quot;&gt;Contact&lt;/h5&gt;
+
+&lt;p&gt;Project owners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sergio Sánchez Zavala (&lt;a href=&quot;https://github.com/chekos&quot;&gt;https://github.com/chekos&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;licence&quot;&gt;Licence&lt;/h5&gt;
+
+&lt;p&gt;GNU General Public License v3.0&lt;/p&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/project_100viz.png" /></entry><entry><title type="html">Publication: Reforming Math Pathways at California’s Community Colleges</title><link href="https://bonniebrooks.me/consistently-beautiful-visualizations-with-altair-themes/" rel="alternate" type="text/html" title="Publication: Reforming Math Pathways at California's Community Colleges" /><published>2018-10-05T00:00:00+00:00</published><updated>2018-10-05T00:00:00+00:00</updated><id>https://bonniebrooks.me/consistently-beautiful-visualizations-with-altair-themes</id><content type="html" xml:base="https://bonniebrooks.me/consistently-beautiful-visualizations-with-altair-themes/">&lt;h5 id=&quot;about&quot;&gt;About&lt;/h5&gt;
+
+&lt;p&gt;“In this report, a follow-up to our earlier statistical portrait of developmental education, we analyze two new reforms in developmental math, known as statistics pathways and compressed math pathways. We utilize various regression techniques to estimate the effect of statistics pathways and compression math pathways on students’ course success, primarily probit and ordinary least squares (OLS) fixed-effects regressions.”&lt;/p&gt;
+
+&lt;h5 id=&quot;details&quot;&gt;Details&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2017-10-24&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&quot;https://www.ppic.org/wp-content/uploads/r_1017orr.pdf&quot;&gt;PPIC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">About</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bonniebrooks.me/reforming-math-pathways.png" /></entry></feed>
